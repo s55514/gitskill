@@ -1,2 +1,6 @@
 # gitskill
-git iddd
+<<<<<<< HEAD
+git id
+=======
+git id 
+>>>>>>> dev
